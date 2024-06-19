@@ -15,3 +15,4 @@
 <a href="#"><img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/AMD-Ryzen_5_1600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/AMD-Radeon_RX_590_GME-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
+Thu Jun 20 2024 00:00:00 GMT+0700 (Western Indonesia Time) -> (0)
