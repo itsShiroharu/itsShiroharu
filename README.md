@@ -17,3 +17,4 @@
 <a href="#"><img src="https://img.shields.io/badge/AMD-Radeon_RX_590_GME-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
 Thu Jun 20 2024 00:00:00 GMT+0700 (Western Indonesia Time) -> (0)
 Thu Jun 20 2024 00:00:00 GMT+0700 (Western Indonesia Time) -> (1)
+Thu Jun 20 2024 00:00:00 GMT+0700 (Western Indonesia Time) -> (2)
